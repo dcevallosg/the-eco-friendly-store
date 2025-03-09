@@ -1,0 +1,22 @@
+{
+  "name": "eco-friendly-store",
+  "version": "1.0.0",
+  "description": "An eco-friendly online store dedicated to sustainability and environmentally friendly products.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined'",
+    "test": "echo 'Test step not defined'"
+  },
+  "keywords": [
+    "eco-friendly",
+    "sustainability",
+    "online store"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
